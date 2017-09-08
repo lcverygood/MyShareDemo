@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LcWbShareDemo</string>
+    <string name="network_unavailable">当前网络不可用，请检查网络连接</string>
+</resources>
